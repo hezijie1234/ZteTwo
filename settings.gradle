@@ -1,0 +1,1 @@
+include ':app', ':day1navigationview', ':library'
