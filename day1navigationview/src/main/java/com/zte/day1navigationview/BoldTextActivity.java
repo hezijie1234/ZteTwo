@@ -37,6 +37,7 @@ public class BoldTextActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bold_text);
+        //测试。
         boldTextView = (TextView) findViewById(R.id.tv_title);
         string = new SpannableString("字体测试字体大小一半两倍前景色背景色正常粗体斜体粗斜体下划线删除线x1x2电话邮件网站短信彩信地图X轴综合/bot");
         //设置字体(default,default-bold,monospace,serif,sans-serif)
