@@ -1,5 +1,6 @@
 package com.zte.day1navigationview;
 
+import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -30,9 +31,9 @@ public class JWTMainActivity extends AppCompatActivity {
         list.add(new String[]{"R.id.jwt_1","通知公告"});
         list.add(new String[]{"R.id.jwt_1","联系人"});
         list.add(new String[]{"R.id.jwt_1","设置"});
-
         MyAdapter adapter = new MyAdapter();
         gridView.setAdapter(adapter);
+
     }
 
     class MyAdapter extends BaseAdapter{

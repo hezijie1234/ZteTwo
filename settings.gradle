@@ -1,1 +1,1 @@
-include ':app', ':day1navigationview', ':library'
+include ':app', ':day1navigationview', ':library', ':day2017831_fragmentadapter'
