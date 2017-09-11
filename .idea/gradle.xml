@@ -10,7 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidulocation" />
+            <option value="$PROJECT_DIR$/day10_zte_baidumap" />
             <option value="$PROJECT_DIR$/day1navigationview" />
+            <option value="$PROJECT_DIR$/day20170905_guideview" />
             <option value="$PROJECT_DIR$/day2017831_fragmentadapter" />
             <option value="$PROJECT_DIR$/library" />
           </set>

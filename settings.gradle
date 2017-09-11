@@ -1,1 +1,1 @@
-include ':app', ':day1navigationview', ':library', ':day2017831_fragmentadapter'
+include ':app', ':day1navigationview', ':library', ':day2017831_fragmentadapter', ':day20170905_guideview', ':day10_zte_baidumap', ':baidulocation'
